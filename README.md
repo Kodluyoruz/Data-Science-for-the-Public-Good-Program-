@@ -28,7 +28,7 @@ Sosyal bilimlerden gelen kişilerin algoritmik düşünce adaptasyonu için ekle
   * Varyans
   * Korelasyon
   
-# Temel Python
+# 2. Temel Python
   * Jupyter Notebook ve Markdown Kullanımı
   * Python temelleri, kütüphaneleri ve çalışma ortamları
   * Veri Yapıları 
@@ -38,10 +38,12 @@ Sosyal bilimlerden gelen kişilerin algoritmik düşünce adaptasyonu için ekle
   * Temel Düzey Nesne Yönelimli Programlama (OOP) 
   
 ### Bootcamp Ders Programı: 
-* Props & State
+* 1. Numpy & Pandas
+* 2. Business Understanding
+  * Business Goal Declaration
 * Create React App
 * React Developer Tools
-* Sample Project 1
+* Sample Project 
 
 ---
 
