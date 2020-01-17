@@ -15,16 +15,29 @@ Sosyal bilimlerden gelen kişilerin algoritmik düşünce adaptasyonu için ekle
 
 ## Eğitim İçeriği:
 
-**Seçmeli Ders Programı (Yaklaşık 30 Saat)
+## Seçmeli Ders Programı (Yaklaşık 30 Saat)
 
 * Algoritma
 * Akış Diyagramları
 * Değişkenler ve Veri Tipleri
 * Operatörler, Döngüler ve Diziler
-*Metotlar ve Yazılım Geliştirme Aşamaları
-* Temel İstatistik  
+* Metotlar ve Yazılım Geliştirme Aşamaları
 
-### Hafta 2: 
+# 1. Temel İstatistik 
+  * Standart Sapma
+  * Varyans
+  * Korelasyon
+  
+# Temel Python
+  * Jupyter Notebook ve Markdown Kullanımı
+  * Python temelleri, kütüphaneleri ve çalışma ortamları
+  * Veri Yapıları 
+  * Döngüler
+  * Koşullar
+  * Fonksiyonlar
+  * Temel Düzey Nesne Yönelimli Programlama (OOP) 
+  
+### Bootcamp Ders Programı: 
 * Props & State
 * Create React App
 * React Developer Tools
