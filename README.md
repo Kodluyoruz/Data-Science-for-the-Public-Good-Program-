@@ -15,7 +15,7 @@ Sosyal bilimlerden gelen kişilerin algoritmik düşünce adaptasyonu için ekle
 
 ## Eğitim İçeriği:
 
-**Seçmeli Ders Programı (Yaklaşık 30 Saat)
+** Seçmeli Ders Programı (Yaklaşık 30 Saat)
 
 1. Algoritma
 2. Akış Diyagramları
