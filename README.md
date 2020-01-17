@@ -1,7 +1,7 @@
-# Bootcamp Adı
+# Data Science for Public Good Programı
 
-#### Programa Genel Bakış
-Bootcamp'in hangi konu üzerine açılacağı, neleri amaçladığı, ne kadar süre devam edeceği bilgilerinin yer alacağı kısım.
+#### Seçmeli Ders Programı
+Sosyal bilimlerden gelen kişilerin algoritmik düşünce adaptasyonu için eklenen ders içeriklerini inceleyebilirsiniz. Bu seçmeli ders programı opsiyonel olacak ve seçilenlerden sadece isteyen kişiler katılacak.
 
 ---
 
@@ -15,13 +15,13 @@ Bootcamp'in hangi konu üzerine açılacağı, neleri amaçladığı, ne kadar s
 
 ## Eğitim İçeriği:
 
-Burada eğitim süresince derslerde işlenecek konu başlıkları verilecek. 
+**Seçmeli Ders Programı (Yaklaşık 30 Saat)
 
-* ### Hafta 1: 
-* Modern JavaScript
-* Intro to React
-* Virtual DOM
-* JSX
+* 1. Algoritma
+* 2. Akış Diyagramları
+* 3. Değişkenler ve Veri Tipleri
+* 4. Operatörler, Döngüler ve Diziler
+* 5. Metotlar ve Yazılım Geliştirme Aşamaları
 * Class Components vs Function Components
 
 ### Hafta 2: 
