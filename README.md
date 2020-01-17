@@ -27,6 +27,7 @@ Sosyal bilimlerden gelen kişilerin algoritmik düşünce adaptasyonu için ekle
   * Standart Sapma
   * Varyans
   * Korelasyon
+  * Bazı istatistik bilgileri
   
 # 2. Temel Python
   * Jupyter Notebook ve Markdown Kullanımı
@@ -38,9 +39,8 @@ Sosyal bilimlerden gelen kişilerin algoritmik düşünce adaptasyonu için ekle
   * Temel Düzey Nesne Yönelimli Programlama (OOP) 
   
 ### Bootcamp Ders Programı: 
-Numpy & Pandas
-* 2. Business Understanding
-  * Business Goal Declaration
+**1. Numpy & Pandas
+**2. Business Understanding
 * Create React App
 * React Developer Tools
 * Sample Project 
