@@ -38,7 +38,7 @@ Sosyal bilimlerden gelen kişilerin algoritmik düşünce adaptasyonu için ekle
   * Temel Düzey Nesne Yönelimli Programlama (OOP) 
   
 ### Bootcamp Ders Programı: 
-* 1. Numpy & Pandas
+Numpy & Pandas
 * 2. Business Understanding
   * Business Goal Declaration
 * Create React App
