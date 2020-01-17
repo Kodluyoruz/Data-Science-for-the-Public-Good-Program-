@@ -17,13 +17,12 @@ Sosyal bilimlerden gelen kişilerin algoritmik düşünce adaptasyonu için ekle
 
 **Seçmeli Ders Programı (Yaklaşık 30 Saat)
 
-* 1. Algoritma
-* 2. Akış Diyagramları
-* 3. Değişkenler ve Veri Tipleri
-* 4. Operatörler, Döngüler ve Diziler
-* 5. Metotlar ve Yazılım Geliştirme Aşamaları
-* Class Components vs Function Components
-
+1. Algoritma
+2. Akış Diyagramları
+3. Değişkenler ve Veri Tipleri
+4. Operatörler, Döngüler ve Diziler
+5. Metotlar ve Yazılım Geliştirme Aşamaları
+* Temel İstatistik  
 ### Hafta 2: 
 * Props & State
 * Create React App
