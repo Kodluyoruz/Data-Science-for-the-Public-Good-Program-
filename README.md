@@ -23,13 +23,13 @@ Sosyal bilimlerden gelen kişilerin algoritmik düşünce adaptasyonu için ekle
 * Operatörler, Döngüler ve Diziler
 * Metotlar ve Yazılım Geliştirme Aşamaları
 
-# 1. Temel İstatistik 
+## Temel İstatistik 
   * Standart Sapma
   * Varyans
   * Korelasyon
   * Bazı istatistik bilgileri
   
-# 2. Temel Python
+## Temel Python
   * Jupyter Notebook ve Markdown Kullanımı
   * Python temelleri, kütüphaneleri ve çalışma ortamları
   * Veri Yapıları 
@@ -39,9 +39,10 @@ Sosyal bilimlerden gelen kişilerin algoritmik düşünce adaptasyonu için ekle
   * Temel Düzey Nesne Yönelimli Programlama (OOP) 
   
 ### Bootcamp Ders Programı: 
-* Create React App
-* React Developer Tools
-* Sample Project 
+* Numpy & Pandas kütüphaneleri
+** Business Understanding 
+* Business Strategy Declaration
+
 
 ---
 
