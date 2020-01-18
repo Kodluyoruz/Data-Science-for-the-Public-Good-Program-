@@ -40,7 +40,7 @@ Sosyal bilimlerden gelen kişilerin algoritmik düşünce adaptasyonu için ekle
   
 ### Bootcamp Ders Programı: 
 * Numpy & Pandas kütüphaneleri
-** Business Understanding 
+* Business Understanding 
 * Business Strategy Declaration
 
 
