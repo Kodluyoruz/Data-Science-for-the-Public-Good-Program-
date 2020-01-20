@@ -1,7 +1,7 @@
 # Data Science for Public Good Programı
 
 #### Seçmeli Ders Programı
-Sosyal bilimlerden gelen kişilerin algoritmik düşünce adaptasyonu için eklenen ders içeriklerini inceleyebilirsiniz. Bu seçmeli ders programı opsiyonel olacak ve seçilenlerden sadece isteyen kişiler katılacak.
+Seçmeli ders programı algoritmik beceriyi kazandırmak ve temel konuların ele alınması için planlanmıştır. Bu programı sadece seçilen kişilerden isteyenler alacak.
 
 ---
 
