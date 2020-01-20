@@ -39,10 +39,10 @@ Sosyal bilimlerden gelen kişilerin algoritmik düşünce adaptasyonu için ekle
   * Nesne Yönelimli Programlama (OOP) - Temel Düzey 
   
 # Bootcamp Ders Programı: 
-** Business Understanding 
-   a. Business Goal Declaration
-   b. Expected Value Framework (EVF)
-   c. Business Strategy Declaration
+## Business Understanding 
+   * a. Business Goal Declaration
+   * b. Expected Value Framework (EVF)
+   * c. Business Strategy Declaration
    
 ---
 
