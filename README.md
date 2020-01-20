@@ -17,18 +17,17 @@ Sosyal bilimlerden gelen kişilerin algoritmik düşünce adaptasyonu için ekle
 
 ## Seçmeli Ders Programı (Yaklaşık 30 Saat)
 
-* Algoritma
-* Akış Diyagramları
-* Değişkenler ve Veri Tipleri
-* Operatörler, Döngüler ve Diziler
-* Metotlar ve Yazılım Geliştirme Aşamaları
+ * Algoritma
+ * Akış Diyagramları
+ * Değişkenler ve Veri Tipleri
+ * Operatörler, Döngüler ve Diziler
+ * Metotlar ve Yazılım Geliştirme Aşamaları
 
 ## Temel İstatistik 
   * Standart Sapma
   * Varyans
   * Korelasyon
-  * Bazı istatistik bilgileri
-  
+    
 ## Temel Python
   * Jupyter Notebook ve Markdown Kullanımı
   * Python temelleri, kütüphaneleri ve çalışma ortamları
@@ -65,12 +64,12 @@ Sosyal bilimlerden gelen kişilerin algoritmik düşünce adaptasyonu için ekle
    
 ## Evaluation 
    * Using Expected Value To Frame Model Evaluation
+   
 ## Deployment
   * Optimization
   * Micro-service Construction
 
 
- 
    
      
 ---
