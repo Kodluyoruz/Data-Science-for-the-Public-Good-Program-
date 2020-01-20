@@ -39,11 +39,40 @@ Sosyal bilimlerden gelen kişilerin algoritmik düşünce adaptasyonu için ekle
   * Nesne Yönelimli Programlama (OOP) - Temel Düzey 
   
 # Bootcamp Ders Programı: 
+
 ## Business Understanding 
-   * a. Business Goal Declaration
-   * b. Expected Value Framework (EVF)
-   * c. Business Strategy Declaration
+   * Business Goal Declaration
+   * Expected Value Framework (EVF)
+   * Business Strategy Declaration
    
+## Data Understanding
+   * Data Preprocessing
+   * Variable Type and Data Structure Consistency
+   * Building The Target Variable (Regression Or Classification)
+
+## Data Analysis 
+   * Preparatory Data Analysis (Pda)
+   * Exploratory Data Analysis (Eda)
+   * Confirmatory Data Analysis (Cda)
+
+## Reading data via API and SQL
+
+## Modelling
+   * Data Transformation and Encoding
+   * Metric, Baseline and Estimator/Classifier Selection
+   * Estimator/Classifier Selection
+   * Model Selection (Hyperparameter Tuning)
+   
+## Evaluation 
+   * Using Expected Value To Frame Model Evaluation
+## Deployment
+  * Optimization
+  * Micro-service Construction
+
+
+ 
+   
+     
 ---
 
 ### Bilinmesi Gerekenler:
