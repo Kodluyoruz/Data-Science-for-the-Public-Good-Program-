@@ -1,7 +1,7 @@
 # Data Science for Public Good Programı
 
 #### Seçmeli Ders Programı
-Seçmeli ders programı algoritmik beceriyi kazandırmak ve temel konuların ele alınması için planlanmıştır. Bu programı sadece seçilen kişilerden isteyenler alacak.
+Seçmeli ders programı algoritmik beceriyi kazandırmak ve temel konuların ele alınması için planlanmıştır. Bu programı sadece seçilen kişilerden isteyenler almalıdır.
 
 ---
 
