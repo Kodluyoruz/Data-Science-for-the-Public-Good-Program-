@@ -5,14 +5,6 @@ Seçmeli ders programı algoritmik beceriyi kazandırmak ve temel konuların ele
 
 ---
 
-### [Eğitmen Adı-Soyadı]
-
-#### Nerede çalıştığı, uzmanlık alanı
-
-> Eğitmen hakkında 5,6 cümlelik çok kısa bir özgeçmiş yazısı.
-
----
-
 ## Eğitim İçeriği:
 
 ## Seçmeli Ders Programı (Yaklaşık 30 Saat)
