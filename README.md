@@ -17,25 +17,25 @@ Sosyal bilimlerden gelen kişilerin algoritmik düşünce adaptasyonu için ekle
 
 ## Seçmeli Ders Programı (Yaklaşık 30 Saat)
 
- * Algoritma
- * Akış Diyagramları
- * Değişkenler ve Veri Tipleri
- * Operatörler, Döngüler ve Diziler
- * Metotlar ve Yazılım Geliştirme Aşamaları
+ * Algorithm
+ * Flow Charts
+ * Variables and Data Types
+ * Operators, Loops and Arrays
+ * Methods and Software Development Process
 
-## Temel İstatistik 
-  * Standart Sapma
-  * Varyans
-  * Korelasyon
+## Basic Statistics
+  * Standard Deviation
+  * Variance
+  * Correlation
     
-## Temel Python
-  * Jupyter Notebook ve Markdown Kullanımı
-  * Python temelleri, kütüphaneleri ve çalışma ortamları
-  * Veri Yapıları 
-  * Döngüler
-  * Koşullar
-  * Fonksiyonlar
-  * Nesne Yönelimli Programlama (OOP) - Temel Düzey 
+## Basic Python
+  * Jupyter Notebook ve Markdown 
+  * Python basics, libraries and work environments
+  * Data Structure 
+  * Loops and Functions
+  * Lists
+  * Conditions
+  * Object Oriented Programing (OOP) - Basic Level
   
 # Bootcamp Ders Programı: 
 
