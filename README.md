@@ -36,14 +36,14 @@ Sosyal bilimlerden gelen kişilerin algoritmik düşünce adaptasyonu için ekle
   * Döngüler
   * Koşullar
   * Fonksiyonlar
-  * Temel Düzey Nesne Yönelimli Programlama (OOP) 
+  * Nesne Yönelimli Programlama (OOP) - Temel Düzey 
   
-### Bootcamp Ders Programı: 
-* Numpy & Pandas kütüphaneleri
-* Business Understanding 
-* Business Strategy Declaration
-
-
+# Bootcamp Ders Programı: 
+** Business Understanding 
+   a. Business Goal Declaration
+   b. Expected Value Framework (EVF)
+   c. Business Strategy Declaration
+   
 ---
 
 ### Bilinmesi Gerekenler:
