@@ -16,10 +16,11 @@ Seçmeli ders programı algoritmik beceriyi kazandırmak ve temel konuların ele
  * Methods and Software Development Process
 
 ## Basic Statistics
-  * Standard Deviation
-  * Variance
-  * Correlation
-    
+ * Measures of Central Tendancy
+ * Measures of Variability
+ * Basic graphs (Histograms, Boxplots, Bar Charts)
+ * Correlation
+      
 ## Basic Python
   * Jupyter Notebook ve Markdown 
   * Python basics, libraries and work environments
@@ -28,6 +29,7 @@ Seçmeli ders programı algoritmik beceriyi kazandırmak ve temel konuların ele
   * Lists
   * Conditions
   * Object Oriented Programing (OOP) - Basic Level
+  * Importing, Tidying & Cleaning Data
   
 # Bootcamp Ders Programı: 
 
@@ -46,7 +48,7 @@ Seçmeli ders programı algoritmik beceriyi kazandırmak ve temel konuların ele
    * Exploratory Data Analysis (Eda)
    * Confirmatory Data Analysis (Cda)
 
-## Reading data via API and SQL
+## Reading data with API and SQL
 
 ## Modelling
    * Data Transformation and Encoding
